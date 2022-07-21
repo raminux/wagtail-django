@@ -23,3 +23,14 @@ $> python manage.py runserver
 
 ## Adding Bootstrap Theme
 https://bootswatch.com/superhero/
+
+## How to add a new Wagtail Page from Scratch
+1. Install a new djago app
+```bash
+$> python manage.py startapp flex
+```
+
+2. Add `flex` to django's INSTALLED_APPS.
+
+3. Add some code to `flex/models.py`. 
+
