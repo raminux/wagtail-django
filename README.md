@@ -21,3 +21,5 @@ $> python manage.py runserver
 
 ## How to install Django Debug Toolbar
 
+## Adding Bootstrap Theme
+https://bootswatch.com/superhero/
