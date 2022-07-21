@@ -19,3 +19,5 @@ $> python manage.py runserver
 
 ## Getting Started with First Home Page in Wagtail CMS
 
+## How to install Django Debug Toolbar
+
