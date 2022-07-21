@@ -34,3 +34,5 @@ $> python manage.py startapp flex
 
 3. Add some code to `flex/models.py`. 
 
+## What is a StreamField?
+Content does not need to be fixed. 
