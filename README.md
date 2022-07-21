@@ -36,3 +36,6 @@ $> python manage.py startapp flex
 
 ## What is a StreamField?
 Content does not need to be fixed. 
+
+
+## How to add RichText StreamField?
