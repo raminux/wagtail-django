@@ -17,6 +17,7 @@ class FlexPage(Page):
         ("title_and_text", blocks.TitleAndTextBlock()),
         ("full_richtext", blocks.RichtextBlock()),
         ("simple_richtext", blocks.SimpleRichtextBlock()),
+        ("cards", blocks.CardBlock()),
     ], null=True, blank=True)
 
     subtitle = models.CharField(max_length=100, blank=True, null=True)
