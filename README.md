@@ -41,3 +41,5 @@ Content does not need to be fixed.
 ## How to add RichText StreamField?
 
 ## How to use ListBlock
+
+## How to create a Call to action StreamField using a StructBlock
